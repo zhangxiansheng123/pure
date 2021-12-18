@@ -68,8 +68,6 @@ npm run dev # or yarn dev
 :heart:感谢支持这个项目的朋友
 
 :heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing)
-
-<img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/扫码_搜索联合传播样式-标准色版.1wp8gd1mhjhc.jpg"  style="width:370px;" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:30%;" /> -->
 
 ## 许可证
