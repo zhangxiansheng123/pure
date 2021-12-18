@@ -1,4 +1,4 @@
-<p align="center"><a href="https://threewhite.top/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://elite-file.oss-cn-shanghai.aliyuncs.com/cover/2020/11/30/vuepress-theme-vdoing.png" alt="logo"></a></p>
+![](https://elite-file.oss-cn-shanghai.aliyuncs.com/cover/2020/11/30/vuepress-theme-vdoing.png)
 
 <p align="center">
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3ACI"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/CI/badge.svg" alt="CI"></a>
@@ -70,8 +70,6 @@ npm run dev # or yarn dev
 
 :heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-## Vdoing官方交流群
-群号：694387113
 <!-- 
 <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
 
