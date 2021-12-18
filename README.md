@@ -1,4 +1,4 @@
-![我的博客](https://elite-file.oss-cn-shanghai.aliyuncs.com/cover/2020/11/30/vuepress-theme-vdoing.png)
+![](https://elite-file.oss-cn-shanghai.aliyuncs.com/cover/2020/11/30/vuepress-theme-vdoing.png)
 <p align="center"><a href="https://threewhite.top/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://elite-file.oss-cn-shanghai.aliyuncs.com/cover/2020/11/30/vuepress-theme-vdoing.png" alt="logo"></a></p>
 
 <p align="center">
