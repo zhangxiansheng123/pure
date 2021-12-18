@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/web.png
 heroText: MoXi's blog
-tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你。
+tagline: 纵浪大化中，不喜亦不惧。应尽便须尽，无复独多虑。
 # actionText: 立刻进入 →
 # actionLink: /web/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
@@ -13,7 +13,7 @@ features: # 可选的
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 后端
-    details: html(5)/css(3)，前端页面相关技术
+    details: Java、Jvm、Spring、微服务等后端相关技术
     link: /ui/
     imgUrl: /img/ui.png
   - title: 技术
@@ -37,7 +37,9 @@ features: # 可选的
 </style>
 
 <!-- 小熊猫 -->
-<!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
+<img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 200px;opacity: 0.8;margin-bottom: 140px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;">
+
+
 
 <!--
 ## 关于

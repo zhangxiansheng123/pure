@@ -164,12 +164,12 @@ module.exports = {
         {
           iconClass: 'icon-youjian',
           title: '发邮件',
-          link: 'mailto:894072666@qq.com',
+          link: 'mailto:767743430@qq.com',
         },
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/xugaoyi',
+          link: 'https://github.com/zhangxiansheng123',
         },
         {
           iconClass: 'icon-erji',
@@ -183,7 +183,7 @@ module.exports = {
     footer: {
       createYear: 2021, // 博客创建年份
       copyrightInfo:
-        'MoXi | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+        'MoXi | <a href="https://github.com/zhangxiansheng123/pure/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
     },
 
     // 插入hmtl(广告)模块
