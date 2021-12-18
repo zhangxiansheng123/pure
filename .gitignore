@@ -1,13 +1,12 @@
 # npm
 package-lock.json
 node_modules
-yarn-error.log
+
+# yarn
+yarn.lock
 
 # vscode
 .vscode
-
-#yarn
-yarn.lock
 
 # vuepress
 docs/.vuepress/dist
