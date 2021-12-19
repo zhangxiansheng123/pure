@@ -14,7 +14,7 @@ features: # 可选的
     imgUrl: /img/web.png # 可选
   - title: 后端
     details: Java、Jvm、Spring、微服务等后端相关技术
-    link: /ui/
+    link: /backend/
     imgUrl: /img/ui.png
   - title: 技术
     details: 技术文档、经验、总结等文章

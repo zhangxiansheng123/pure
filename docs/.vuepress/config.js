@@ -23,6 +23,7 @@ module.exports = {
             text: '前端文章',
             items: [
               { text: 'HTML', link: '/pages/41f082/' },
+              { text: 'CSS', link: '/pages/4aa02a/' },
               { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
             ],
           },
@@ -56,9 +57,8 @@ module.exports = {
       },
       {
         text: '后端',
-        link: '/ui/',
+        link: '/backend/',
         items: [
-          { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
           { text: 'JavaSE', link: '/pages/cacab7/' },
           { text: 'JavaWeb', link: '/pages/43d3bc/' },
         ],
