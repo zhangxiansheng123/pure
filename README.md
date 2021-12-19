@@ -23,7 +23,7 @@
 
 [**更新日志**](https://github.com/zhangxiansheng123/pure/releases)
 
-## 感谢大佬基于Vuepress提供的vuepress-theme-vdoing主题？
+## 感谢大佬基于Vuepress提供的vuepress-theme-vdoing主题
 * 案例1：[知识库兼博客站](https://xugaoyi.com/)
 * 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
 * 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
