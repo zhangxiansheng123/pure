@@ -59,7 +59,7 @@ module.exports = {
         text: '后端',
         link: '/backend/',
         items: [
-          { text: 'JavaSE', link: '/pages/cacab7/' },
+          { text: 'JavaSE', link: '/pages/2400b1/' },
           { text: 'JavaWeb', link: '/pages/43d3bc/' },
         ],
       },
@@ -149,7 +149,7 @@ module.exports = {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
     author: {
       name: 'MoXi', // 必需
-      link: 'https://github.com/xugaoyi', // 可选的
+      link: 'https://github.com/zhangxiansheng123', // 可选的
     },
 
     // 博主信息，显示在首页侧边栏
