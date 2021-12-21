@@ -61,6 +61,7 @@ module.exports = {
         items: [
           { text: 'JavaSE', link: '/pages/2400b1/' },
           { text: 'JavaWeb', link: '/pages/43d3bc/' },
+          { text: 'Spring', link: '/pages/c494ea/' },
         ],
       },
       {
@@ -71,6 +72,23 @@ module.exports = {
           { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
           { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
           { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
+        ],
+      },
+      { 
+        text: '开发',
+        link: '/开发/',
+        items:[
+          {text:'进制转换', link:'https://tool.lu/hexconvert/'},
+          {text:'时间戳工具', link:'https://tool.lu/timestamp/'},
+          {text:'crontab执行时间计算', link:'https://tool.lu/crontab/'},
+          {text:'url编码解码', link:'http://www.jsons.cn/urlencode/'},
+          {text:'有道翻译', link:'https://fanyi.youdao.com/'},
+          {text:'百度翻译', link:'https://fanyi.baidu.com/'},
+          {text:'艺术字logo制作', link:'http://www.uugai.com/logoa/wenzi.php?page=2'},
+          {text:'ip查询', link:'https://www.ipip.net/ip.html'},
+          {text:'文本对比', link:'https://www.fly63.com/tool/textdiff/'},
+          {text:'文本对比', link:'https://www.fly63.com/tool/textdiff/'},
+          {text:'文本对比', link:'https://www.fly63.com/tool/textdiff/'},
         ],
       },
       {
@@ -84,7 +102,6 @@ module.exports = {
           { text: '友情链接', link: '/friends/' },
         ],
       },
-      { text: '关于', link: '/about/' },
       {
         text: '收藏',
         link: '/pages/beb6c0bd8a66cea6/',
@@ -103,10 +120,17 @@ module.exports = {
           { text: '归档', link: '/archives/' },
         ],
       },
+      { 
+        text: '关于我',
+        link: '/about/',
+        items: [
+          {text: 'GitHub', link:'https://github.com/zhangxiansheng123/pure'}
+        ]
+      },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
-    repo: 'zhangxiansheng123/pure', // 导航栏右侧生成Github链接
+    // repo: 'zhangxiansheng123/pure', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
     docsDir: 'docs', // 编辑的文件夹
