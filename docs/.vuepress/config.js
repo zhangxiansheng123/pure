@@ -62,6 +62,7 @@ module.exports = {
           { text: 'JavaSE', link: '/pages/2400b1/' },
           { text: 'JavaWeb', link: '/pages/43d3bc/' },
           { text: 'Spring', link: '/pages/c494ea/' },
+          { text: 'Linux&&容器化', link: '/pages/c494ea/' },
         ],
       },
       {
