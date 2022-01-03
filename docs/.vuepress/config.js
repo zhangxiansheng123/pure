@@ -145,12 +145,12 @@ module.exports = {
     // archive: false, // 是否打开归档功能，默认true
     // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
-    bodyBgImg: [
-      'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF.jpg',
-      'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF2.jpg',
-      'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF3.jpg',
-      'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF5.jpg'
-    ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时每隔15秒换一张。
+    // bodyBgImg: [
+    //   'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF.jpg',
+    //   'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF2.jpg',
+    //   'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF3.jpg',
+    //   'https://elite-file.oss-cn-shanghai.aliyuncs.com/avatar/2020/11/30/%E6%9E%97%E9%9D%92%E7%8E%84/%E7%BE%8E%E6%99%AF5.jpg'
+    // ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时每隔15秒换一张。
     bodyBgImgOpacity: 0.8, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
     // titleBadge: false, // 文章标题前的图标是否显示，默认true
